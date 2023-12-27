@@ -1,4 +1,4 @@
-## live link to my react app https://reactwebsitebyprince.netlify.app/
+## live link to my reactjs X firebase app https://signup-login2.netlify.app/
 
 # Getting Started with Create React App
 
@@ -72,4 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 YouTube link
-https://www.youtube.com/watch?v=0h2b4ftbZcU
+https://www.youtube.com/watch?v=0h2b4ftbZcU reactjs
+https://youtu.be/b43uPnSM2Ow?si=u-SaElfq9Iq9GpPs firebase
