@@ -2,7 +2,8 @@
 
 # This project was done using reactjs and firebase
 
-YouTube link
+YouTube link (resources)
+
 https://www.youtube.com/watch?v=0h2b4ftbZcU reactjs
 
 https://youtu.be/b43uPnSM2Ow?si=u-SaElfq9Iq9GpPs firebase
