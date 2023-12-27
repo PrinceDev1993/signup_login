@@ -1,0 +1,66 @@
+.mask {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+/* BACKGROUND OVERLAY */
+.bgImg {
+    width: 100%;
+    background-position: cover;
+    background-position: center;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.mask::after {
+    content: "";
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    opacity: 0.8;
+}
+
+.hero {
+    width: 100%;
+    height: 100vh;
+}
+
+.hero .content {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    text-align: center;   
+}
+
+.hero .content h1 {
+    font-size: 4rem;
+    padding: 0.6rem 0 1.5rem;
+    color: #fff;
+}
+
+.hero .content p {
+    font-size: 1.4rem;
+    font-weight: 200;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.hero .content .btn {
+    margin: 0.5rem 0.2rem;
+}
+
+@media(max-width:640px) {
+    .hero .content h1 {
+        font-size: 3rem;
+    }
+
+    .hero .content p{
+        font-size: 1.4rem;
+        font-weight: 200;
+        text-transform: uppercase;
+    }
+}
